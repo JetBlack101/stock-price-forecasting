@@ -1,15 +1,15 @@
 # Simple stock price estimator: project overview
-___
+
 - Created a model that predicts a next day price for XTB company's stock (R2= 0.965, RMSE=0.715).
 - Feature selection based on domain knowledge of financial markets and the research about the company.
 - Reviewing and combining several datasets that represent various financial instruments.
 - Performed exploratory data analysis for a better understanding of underlying relations between features.
 - Preprocessing the data and used multiple regression algorithms, from Linear Model to Random Forrest Regressor.
 - Performing basic measurements and conducting cross-validation for better score verification.
-___
+
 ### Code and resaurces used
 - **Python version:** 3.8
-- **Packages:** numpy,pandas, matplotlib, sklearn
+- **Packages:** numpy, pandas, matplotlib, sklearn
 - **Environment** Anaconda, Win64
 
 ### About the XTB company
